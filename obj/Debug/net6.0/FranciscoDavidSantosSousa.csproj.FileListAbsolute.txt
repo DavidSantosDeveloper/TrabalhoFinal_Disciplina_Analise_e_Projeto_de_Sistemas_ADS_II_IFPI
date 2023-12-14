@@ -1,0 +1,528 @@
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/appsettings.json
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/FranciscoDavidSantosSousa.staticwebassets.runtime.json
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/FranciscoDavidSantosSousa.exe
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/FranciscoDavidSantosSousa.deps.json
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/FranciscoDavidSantosSousa.runtimeconfig.json
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/FranciscoDavidSantosSousa.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/ref/FranciscoDavidSantosSousa.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/FranciscoDavidSantosSousa.pdb
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/Humanizer.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/MessagePack.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/MessagePack.Annotations.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.AspNetCore.Razor.Language.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.Build.Locator.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.CodeAnalysis.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.CodeAnalysis.Features.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.CodeAnalysis.Razor.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.DiaSymReader.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.DotNet.Scaffolding.Shared.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.VisualStudio.Debugger.Contracts.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/dotnet-aspnet-codegenerator-design.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/MySqlConnector.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/NuGet.Common.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/NuGet.Configuration.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/NuGet.DependencyResolver.Core.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/NuGet.Frameworks.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/NuGet.LibraryModel.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/NuGet.Packaging.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/NuGet.ProjectModel.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/NuGet.Protocol.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/NuGet.Versioning.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/System.Composition.AttributedModel.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/System.Composition.Convention.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/System.Composition.Hosting.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/System.Composition.Runtime.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/System.Composition.TypedParts.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/runtimes/win-arm/lib/net6.0/dotnet-aspnet-codegenerator-design.exe
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/runtimes/win-arm64/lib/net6.0/dotnet-aspnet-codegenerator-design.exe
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/obj/Debug/net6.0/FranciscoDavidSantosSousa.csproj.AssemblyReference.cache
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/obj/Debug/net6.0/FranciscoDavidSantosSousa.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/obj/Debug/net6.0/FranciscoDavidSantosSousa.AssemblyInfoInputs.cache
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/obj/Debug/net6.0/FranciscoDavidSantosSousa.AssemblyInfo.cs
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/obj/Debug/net6.0/FranciscoDavidSantosSousa.csproj.CoreCompileInputs.cache
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/obj/Debug/net6.0/FranciscoDavidSantosSousa.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/obj/Debug/net6.0/FranciscoDavidSantosSousa.RazorAssemblyInfo.cache
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/obj/Debug/net6.0/FranciscoDavidSantosSousa.RazorAssemblyInfo.cs
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/obj/Debug/net6.0/scopedcss/bundle/FranciscoDavidSantosSousa.styles.css
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/obj/Debug/net6.0/scopedcss/projectbundle/FranciscoDavidSantosSousa.bundle.scp.css
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/obj/Debug/net6.0/FranciscoDavidSantosSousa.csproj.CopyComplete
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/obj/Debug/net6.0/FranciscoDavidSantosSousa.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/obj/Debug/net6.0/ref/FranciscoDavidSantosSousa.dll
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/obj/Debug/net6.0/FranciscoDavidSantosSousa.pdb
+C:/Users/web/Desktop/FranciscoDavidSantosSousa/obj/Debug/net6.0/FranciscoDavidSantosSousa.genruntimeconfig.cache
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/obj/Debug/net6.0/FranciscoDavidSantosSousa.csproj.AssemblyReference.cache
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/obj/Debug/net6.0/FranciscoDavidSantosSousa.GeneratedMSBuildEditorConfig.editorconfig
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/obj/Debug/net6.0/FranciscoDavidSantosSousa.AssemblyInfoInputs.cache
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/obj/Debug/net6.0/FranciscoDavidSantosSousa.AssemblyInfo.cs
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/obj/Debug/net6.0/FranciscoDavidSantosSousa.csproj.CoreCompileInputs.cache
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/obj/Debug/net6.0/FranciscoDavidSantosSousa.MvcApplicationPartsAssemblyInfo.cache
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/obj/Debug/net6.0/FranciscoDavidSantosSousa.RazorAssemblyInfo.cache
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/obj/Debug/net6.0/FranciscoDavidSantosSousa.RazorAssemblyInfo.cs
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/obj/Debug/net6.0/FranciscoDavidSantosSousa.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/obj/Debug/net6.0/ref/FranciscoDavidSantosSousa.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/obj/Debug/net6.0/FranciscoDavidSantosSousa.pdb
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/appsettings.Development.json
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/appsettings.json
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/FranciscoDavidSantosSousa.staticwebassets.runtime.json
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/FranciscoDavidSantosSousa
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/FranciscoDavidSantosSousa.deps.json
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/FranciscoDavidSantosSousa.runtimeconfig.json
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/FranciscoDavidSantosSousa.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/ref/FranciscoDavidSantosSousa.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/FranciscoDavidSantosSousa.pdb
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/Humanizer.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/MessagePack.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/MessagePack.Annotations.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.AspNetCore.Razor.Language.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.Build.Locator.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.CodeAnalysis.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.CodeAnalysis.Features.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.CodeAnalysis.Razor.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.CodeAnalysis.Scripting.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.Features.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.DiaSymReader.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.DotNet.Scaffolding.Shared.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.VisualStudio.Debugger.Contracts.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/dotnet-aspnet-codegenerator-design.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/MySqlConnector.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/NuGet.Common.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/NuGet.Configuration.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/NuGet.DependencyResolver.Core.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/NuGet.Frameworks.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/NuGet.LibraryModel.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/NuGet.Packaging.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/NuGet.ProjectModel.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/NuGet.Protocol.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/NuGet.Versioning.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/System.Composition.AttributedModel.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/System.Composition.Convention.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/System.Composition.Hosting.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/System.Composition.Runtime.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/System.Composition.TypedParts.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/System.Drawing.Common.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/System.Runtime.Caching.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/System.Security.Permissions.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/System.Windows.Extensions.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/runtimes/win-arm/lib/net6.0/dotnet-aspnet-codegenerator-design.exe
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/runtimes/win-arm64/lib/net6.0/dotnet-aspnet-codegenerator-design.exe
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/obj/Debug/net6.0/staticwebassets.build.json
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/obj/Debug/net6.0/staticwebassets.development.json
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/obj/Debug/net6.0/scopedcss/bundle/FranciscoDavidSantosSousa.styles.css
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/obj/Debug/net6.0/scopedcss/projectbundle/FranciscoDavidSantosSousa.bundle.scp.css
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/obj/Debug/net6.0/FranciscoDavidSantosSousa.csproj.CopyComplete
+/home/davi/Área de trabalho/v2/FranciscoDavidSantosSousa/obj/Debug/net6.0/FranciscoDavidSantosSousa.genruntimeconfig.cache

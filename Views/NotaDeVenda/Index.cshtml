@@ -1,0 +1,89 @@
+@model IEnumerable<FranciscoDavidSantosSousa.Models.NotaDeVenda>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.DataDaVenda)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.tipo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.cancelado)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.devolvido)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TipoDePagamentoId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TipoDePagamento)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Transportadora)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Vendedor)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cliente)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ItemId)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.DataDaVenda)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tipo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.cancelado)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.devolvido)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TipoDePagamentoId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TipoDePagamento.Discriminator)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Transportadora.IdTransportadora)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Vendedor.IdVendedor)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cliente.IdCliente)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ItemId)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.IdNotaDeVenda">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.IdNotaDeVenda">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.IdNotaDeVenda">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
